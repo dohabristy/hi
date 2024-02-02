@@ -1,0 +1,27 @@
+body.dark {
+    background-color: #000;
+    
+}
+body.dark button{
+    background-color: #000;
+    color: aliceblue;
+    border-radius: 40px;
+    
+}
+body.dark h1 {
+    color: #000;
+}
+body.dark .dark-btn {
+    background-color: #fff;
+}
+body.dark h3{
+    font-size: 50px;
+    color: brown;
+
+}
+body.dark p {
+    font-size: 16px;
+    color: rgb(0, 21, 255);
+    
+}
+
