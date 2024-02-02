@@ -43,7 +43,7 @@ a{
 .service-item button {
     border: none;
     padding: 8px 20px;
-    background-color: blue;
+    background-color: rgb(20, 20, 252);
 }
 .dark-btn {
     background-color: #000000;
